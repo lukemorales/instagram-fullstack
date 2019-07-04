@@ -60,7 +60,7 @@ export default class Feed extends Component {
   }
 
   loadRequest = async () => {
-    const response = await api.get('/posts');
+    const response = await api.get('posts');
 
     this.setState({ feed: response.data });
   };
@@ -90,11 +90,11 @@ export default class Feed extends Component {
   };
 
   handleLike = id => {
-    api.post(`/posts/${id}/like`);
+    api.post(`posts/${id}/like`);
   };
 
   handleDelete = id => {
-    api.post(`/posts/${id}/delete`);
+    api.post(`posts/${id}/delete`);
   };
 
   onRefreshHandler = () => {
