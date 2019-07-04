@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="22px" viewBox="0 0 25 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>Send</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Home" transform="translate(-516.000000, -714.000000)" stroke="#000000" stroke-width="1.44">
+            <g id="Group-3" transform="translate(430.000000, 102.000000)">
+                <g id="Group-2" transform="translate(0.000000, 20.000000)">
+                    <g id="Like,-comment,-send,-collect" transform="translate(20.000000, 583.000000)">
+                        <g id="Send" transform="translate(81.158725, 15.500000) rotate(-300.000000) translate(-81.158725, -15.500000) translate(69.655042, 5.812500)">
+                            <polygon id="Path-2" points="11.1560964 -2.84217094e-14 0 19.2316878 11.1560964 14.5779355"></polygon>
+                            <polygon id="Path-2" transform="translate(17.081731, 9.615844) scale(-1, 1) translate(-17.081731, -9.615844) " points="22.6597791 -2.84217094e-14 11.5036827 19.2316878 22.6597791 14.5779355"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -8,6 +8,7 @@
 	},
 	"dependencies": {
 		"cores": "^0.8.5",
+		"cors": "^2.8.5",
 		"express": "^4.17.1",
 		"mongoose": "^5.5.14",
 		"multer": "^1.4.1",
@@ -15,6 +16,12 @@
 		"socket.io": "^2.2.0"
 	},
 	"devDependencies": {
-		"nodemon": "^1.19.1"
+		"eslint": "^5.16.0",
+		"eslint-config-airbnb-base": "^13.2.0",
+		"eslint-config-prettier": "^6.0.0",
+		"eslint-plugin-import": "^2.18.0",
+		"eslint-plugin-prettier": "^3.1.0",
+		"nodemon": "^1.19.1",
+		"prettier": "^1.18.2"
 	}
 }
